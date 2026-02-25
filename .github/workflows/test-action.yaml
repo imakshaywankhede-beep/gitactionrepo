@@ -6,4 +6,4 @@ on: [push]
         steps:
          - uses: actions/checkout@v3
          - name: say hello 
-          run: echo "hello everyone"
+           run: echo "hello everyone"
