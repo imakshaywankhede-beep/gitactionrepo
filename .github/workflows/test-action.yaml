@@ -1,5 +1,7 @@
 name: hello
+
 on: [push]
+
 jobs:
    balley-balley:
         runs-on: ubuntu-20.04
